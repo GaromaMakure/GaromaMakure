@@ -1,6 +1,6 @@
-<h1 align="center">👋 <span style="color: green;">Hi, I'm Garoma Makure</span> 👨‍💻</h1>
-<h3 align="center">🌟 <span style="color: turquoise;">A passionate web developer from Haramaya University</span> 🌟</h3>
-
+<h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Garoma+Makure!+🌱;+✨+Software+Engineering+Student+💥;+🌱at+Haramaya+University+🎉;" />
+        </h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" alt="Coding" width="400"/>
 </div>
