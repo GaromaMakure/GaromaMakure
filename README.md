@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme‑typing‑svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Garoma+Makure!+🌱;+✨+Software+Engineering+Student+💥;+🌱at+Haramaya+University+🎉;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Garoma+Makure!+🌱;+✨+Software+Engineering+Student+💥;+🌱at+Haramaya+University+🎉;" />
 </h1>
 
 <div align="center">
-  <img src="https://programing-gifs.vercel.app/?quality=80" alt="Random Coding GIF" width="80%" height="auto"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="70%" />
 </div>
 
 <p align="left"> 
