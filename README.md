@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCVPqiDhU6Q6P5K/giphy.gif" alt="Pro Coding Animation" width="70%" />
+  <img src="https://media.giphy.com/media/3oKIPa2Tdah4zwkQUg/giphy.gif" alt="Colorful Pro Coding Animation" width="70%" />
 </div>
 
 <p align="left"> 
