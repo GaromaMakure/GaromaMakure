@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="90% height ="50%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="100% height ="50%"/>
 </div>
 
 <p align="left"> 
