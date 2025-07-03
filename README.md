@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4a/32/f6/4a32f623fb8420a3b99318f67c3e0da5.gif" alt="Coding Animation" width="70%" height="50%"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="70%" />
 </div>
 
 <p align="left"> 
