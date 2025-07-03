@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="80%" height="60%"/>
+  <img src="https://i.pinimg.com/originals/4a/32/f6/4a32f623fb8420a3b99318f67c3e0da5.gif" alt="Coding Animation" width="70%" height="50%"/>
 </div>
 
 <p align="left"> 
@@ -12,7 +12,7 @@
   </a> 
 </p>
 
-    ### **About me:**
+### 🧠 **About me:**
 
 - 🔭 I’m Software Engineering student [@Haramaya University]  
 - 🌱 I’m currently specializing on **full-stack web development**  
