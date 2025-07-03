@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="80%" height="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="70% height ="50%"/>
 </div>
 
 <p align="left"> 
@@ -12,14 +12,18 @@
   </a> 
 </p>
 
-### 🧠 **About me:**
+---
 
-- 🔭 I’m Software Engineering student [@Haramaya University]  
-- 🌱 I’m currently specializing on **full-stack web development**  
-- 👨‍💻 All of my projects are available at [https://GaromaMakure.netlify.app/]  
-- 💬 Ask me about **React, Bootstrap, Tailwind Css, NodeJs, Express**  
-- 📫 How to reach me **garomamak11@gmail.com**  
-- ⚡ Fun fact **i am funny**  
+## 🧠 <strong>About Me</strong>
+
+🚀 **Hi, I'm Garoma Makure** – a passionate Software Engineering student at **Haramaya University**  
+🎯 Currently focused on mastering **full-stack web development**  
+🌐 I enjoy building responsive, interactive web apps and exploring new technologies  
+💬 Ask me about **React, Node.js, Express, Tailwind CSS, and Bootstrap**  
+📫 Reach me at: **garomamak11@gmail.com**  
+🎉 Fun fact: _I'm funny and love to solve real-world problems with code!_
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +35,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -91,6 +97,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+---
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garomamakure&show_icons=true&locale=en&layout=compact" alt="garomamakure" />
