@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding Animation" width="70%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="70%" />
 </div>
 
 <p align="left"> 
@@ -15,7 +15,7 @@
 ### 🧠 **About me:**
 
 - 🔭 I’m Software Engineering student [@Haramaya University]  
-- 🌱 I’m currently specializing on **full‑stack web development**  
+- 🌱 I’m currently specializing on **full-stack web development**  
 - 👨‍💻 All of my projects are available at [https://GaromaMakure.netlify.app/]  
 - 💬 Ask me about **React, Bootstrap, Tailwind Css, NodeJs, Express**  
 - 📫 How to reach me **garomamak11@gmail.com**  
