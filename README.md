@@ -1,23 +1,29 @@
-<!-- Header banner (name) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Garoma%20Makure&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=60" alt="Garoma Makure banner" />
+<!-- Header: name | interactive text | image -->
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="middle" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=28&duration=2500&pause=100000&repeat=false&color=0F2027&background=FFFFFF&center=true&vCenter=true&width=240&height=180&lines=Garoma+Makure" alt="Garoma Makure" />
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1E6091&background=FFFFFF&center=true&vCenter=true&width=320&height=180&lines=Application+Developer;Software+Engineer;Full-Stack+Developer;Mobile+App+Developer;Secure+%26+Scalable+Apps" alt="Typing SVG" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" height="180" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<!-- Coding animation (smaller, between name and typing text) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="280" />
-
-<!-- Interactive typing text (bigger, blue background) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=FFFFFF&background=1E6091&center=true&vCenter=true&width=950&height=80&lines=Building+secure%2C+scalable+applications;Full-stack+%26+Mobile+Developer;BSc+in+Software+Engineering+%E2%80%94+Haramaya+University;Turning+real-world+problems+into+reliable+software" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <a href="mailto:garomamak11@gmail.com"><img src="https://img.shields.io/badge/Email-garomamak11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/garomamakure"><img src="https://img.shields.io/badge/GitHub-garomamakure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=garomamakure&label=Profile%20views&color=2c5364&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=garomamakure&label=Profile%20views&color=1E6091&style=flat" alt="Profile views" />
 
 </div>
 
@@ -117,10 +123,14 @@ A full-stack site I built solo to replace manual student registration. It is dep
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=garomamakure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garomamakure&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=garomamakure&show_icons=true&count_private=true&hide_border=false&bg_color=1B1B2F&title_color=FF7A18&icon_color=FFD166&text_color=FFFFFF&border_color=FF7A18" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garomamakure&layout=compact&hide_border=false&bg_color=1B1B2F&title_color=FF7A18&text_color=FFFFFF&border_color=FF7A18" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=garomamakure&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/>
+
+### 🔥 Contribution Streak 🔥
+
+<img src="https://streak-stats.demolab.com?user=garomamakure&hide_border=false&border=FF4500&background=1B1B2F&ring=FF4500&fire=FF9100&currStreakNum=FFD166&currStreakLabel=FF6B35&sideNums=FFFFFF&sideLabels=FF9100&dates=C9D1D9" alt="GitHub streak" />
 
 </div>
 
@@ -144,7 +154,7 @@ I'm open to collaborating on **open-source projects**, **tech communities**, and
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1B1B2F,100:FF4500&height=120&section=footer" alt="footer" width="100%" />
 
 *⭐ If you like my work, feel free to star a repo!*
 
