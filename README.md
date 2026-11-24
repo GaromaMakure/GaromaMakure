@@ -11,6 +11,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=garomamakure&label=Profile%20views&color=2c5364&style=flat" alt="Profile views" />
 
+<br/><br/>
+
+<!-- Coding animation (from your original README) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
+
+<!-- Optional: your profile photo. Remove the comment markers and replace the URL.
+<img src="https://github.com/garomamakure.png" width="150" style="border-radius:50%" alt="Garoma Makure" />
+-->
+
 </div>
 
 ---
