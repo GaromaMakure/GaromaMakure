@@ -1,24 +1,23 @@
-<!-- Header banner -->
+<!-- Header banner (name) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Garoma%20Makure&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=60" alt="Garoma Makure banner" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+secure%2C+scalable+applications;Full-stack+%26+Mobile+Developer;BSc+in+Software+Engineering+%E2%80%94+Haramaya+University;Turning+real-world+problems+into+reliable+software)](https://git.io/typing-svg)
+<!-- Coding animation (smaller, between name and typing text) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="280" />
+
+<!-- Interactive typing text (bigger, blue background) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=FFFFFF&background=1E6091&center=true&vCenter=true&width=950&height=80&lines=Building+secure%2C+scalable+applications;Full-stack+%26+Mobile+Developer;BSc+in+Software+Engineering+%E2%80%94+Haramaya+University;Turning+real-world+problems+into+reliable+software" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <a href="mailto:garomamak11@gmail.com"><img src="https://img.shields.io/badge/Email-garomamak11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/garomamakure"><img src="https://img.shields.io/badge/GitHub-garomamakure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=garomamakure&label=Profile%20views&color=2c5364&style=flat" alt="Profile views" />
-
-<br/><br/>
-
-<!-- Coding animation (from your original README) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="100%" />
-
-<!-- Optional: your profile photo. Remove the comment markers and replace the URL.
-<img src="https://github.com/garomamakure.png" width="150" style="border-radius:50%" alt="Garoma Makure" />
--->
 
 </div>
 
