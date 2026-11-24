@@ -1,23 +1,19 @@
 <!-- Name (outside the box, like before) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Garoma%20Makure&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=60" alt="Garoma Makure banner" />
 
-<!-- Interactive text (horizontal line) next to the image -->
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=2C9CDB&background=FFFFFF&center=true&vCenter=true&width=700&height=180&lines=Building+secure%2C+scalable+applications;Full-stack+%26+Mobile+Developer;BSc+in+Software+Engineering+%E2%80%94+Haramaya+University;Turning+real-world+problems+into+reliable+software" alt="Typing SVG" />
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" height="180" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
+<!-- Interactive text (bold, one horizontal line, types left to right) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=3500&pause=1000&color=2C9CDB&background=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Building+secure%2C+scalable+applications;Full-stack+%26+Mobile+Developer;BSc+in+Software+Engineering+%E2%80%94+Haramaya+University;Turning+real-world+problems+into+reliable+software" alt="Typing SVG" />
+</a>
+
 <br/>
+
+<!-- Coding animation (below the interactive text) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="420" />
+
+<br/><br/>
 
 <a href="mailto:garomamak11@gmail.com"><img src="https://img.shields.io/badge/Email-garomamak11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
